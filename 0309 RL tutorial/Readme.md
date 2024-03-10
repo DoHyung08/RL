@@ -7,3 +7,5 @@ mountain car에서 시작 상태에 따라 해답에 도달하지 못하는 경�
 승률을 더 올릴 수 있는 방법과, 선택의 기준을 좀더 탐구해보아야겠다.
 
 또한 블랙잭에서 딜러는 한장의 카드만 공개되므로 딜러 카드 값의 최댓값이 10이다. 따라서 정책 부분에서 수정이 필요하다.
+
+수업 자료 : https://colab.research.google.com/drive/13TrOIIqRnqrttAyi1P1O_WYBpVK6oLPX
