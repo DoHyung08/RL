@@ -15,6 +15,15 @@ text-to-image, image-to-image 등 여러 이미지 생성 모델이 있고, text
 인간의 피드백(좋고 나쁨)을 생성한 이미지의 보상으로 받아 생성과정을 학습함
 2개의 이미지를 생성하고 인간에게 비교하라고 하는 과정이 많이 사용된다.
 
+#### Stable-Diffusion 1.5를 사용한 RLHF 데이터 생성과정. 
+작은 데이터셋으로 인해 성능은 좋지 않았다.
+
+
+![image](https://github.com/user-attachments/assets/3c952bad-4a1c-4565-a403-9228ba0bbcc5)
+![image](https://github.com/user-attachments/assets/bc2d6005-7b88-485e-bc44-9741f09b7478)
+
+
+
 
 ### YOLO v8 Fine Tuning
 교통사고 이미지 데이터를 이용해 YOLO v8을 학습시켰다.
